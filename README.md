@@ -34,11 +34,11 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joewaleed&layout=compact&langs_count=5&theme=tokyonight&hide_border=false" width="90%" alt="languages graph" />
 
-  <br/><br/>
+  <br/>
 
   <img src="https://streak-stats.demolab.com?user=joewaleed&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" width="90%" alt="streak graph" />
 
-  <br/><br/>
+  <br/>
 
   <img src="https://github-profile-trophy.vercel.app?username=joewaleed&theme=tokyonight&margin-w=8&margin-h=8&no-bg=true&no-frame=true" width="90%" alt="trophy graph" />
 
