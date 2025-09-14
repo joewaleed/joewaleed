@@ -42,20 +42,11 @@
 
   <h2 align="center">🏆 GitHub Trophies</h2>
 
-<details open>
-  <summary>Page 1</summary>
-  <img src="https://github-profile-trophy.vercel.app?username=joewaleed&theme=tokyonight&row=2&column=3" width="90%" />
-</details>
+<div align="center">
 
-<details>
-  <summary>Page 2</summary>
-  <img src="https://github-profile-trophy.vercel.app?username=joewaleed&theme=tokyonight&row=2&column=3&rank=S,SS,SSS" width="90%" />
-</details>
+<img src="https://github-profile-trophy.vercel.app?username=joewaleed&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" width="95%" />
 
-<details>
-  <summary>Page 3</summary>
-  <img src="https://github-profile-trophy.vercel.app?username=joewaleed&theme=tokyonight&row=2&column=3&rank=AAA,AA,A,B,C" width="90%" />
-</details>
+</div>
 
 ###
 
