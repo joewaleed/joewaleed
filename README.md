@@ -40,7 +40,37 @@
 
   <br/>
 
-  <img src="https://github-profile-trophy.vercel.app?username=joewaleed&theme=tokyonight&margin-w=8&margin-h=8&no-bg=true&no-frame=true" width="90%" alt="trophy graph" />
+  <h2 align="center">🏆 GitHub Trophies</h2>
+
+---
+
+### <div id="trophies-page-1" align="center">Page 1</div>
+
+<img src="https://github-profile-trophy.vercel.app?username=joewaleed&theme=tokyonight&no-frame=true&row=2&column=3" width="90%" />
+
+<div align="center">
+<a href="#trophies-page-3">◀ Prev</a> | <a href="#trophies-page-2">Next ▶</a>
+</div>
+
+---
+
+### <div id="trophies-page-2" align="center">Page 2</div>
+
+<img src="https://github-profile-trophy.vercel.app?username=joewaleed&theme=tokyonight&no-frame=true&row=2&column=3&rank=S,SS,SSS" width="90%" />
+
+<div align="center">
+<a href="#trophies-page-1">◀ Prev</a> | <a href="#trophies-page-3">Next ▶</a>
+</div>
+
+---
+
+### <div id="trophies-page-3" align="center">Page 3</div>
+
+<img src="https://github-profile-trophy.vercel.app?username=joewaleed&theme=tokyonight&no-frame=true&row=2&column=3&rank=AAA,AA,A,B,C" width="90%" />
+
+<div align="center">
+<a href="#trophies-page-2">◀ Prev</a> | <a href="#trophies-page-1">Next ▶</a>
+</div>
 
 </div>
 
