@@ -65,6 +65,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joewaleed&layout=compact&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=joewaleed&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://streak-stats.demolab.com?user=joewaleed&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 
 <div align="center">
