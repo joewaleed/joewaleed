@@ -49,7 +49,7 @@
 <div align="center">
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joewaleed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joewaleed&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=joewaleed&show_icons=true&theme=tokyonight" alt="Joe's GitHub stats" height="150" />
 <img src="https://github-profile-trophy.vercel.app?username=joewaleed&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
