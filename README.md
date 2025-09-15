@@ -35,14 +35,26 @@
 
 ###
 
-<div align="center">
-<a href="https://www.linkedin.com/in/yousef-waleed-6555472a6/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</a>
-<a href="https://discord.com/users/494954574289960960" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</a>
-</div>
+<h2 align="center">🧩 Problem Solving</h2>
+
+<p align="center">
+  <a href="https://www.codewars.com/users/joewaleed">
+    <img src="https://www.codewars.com/users/joewaleed/badges/large" alt="Codewars Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/joewaleed/">
+    <img src="https://leetcard.jacoblin.cool/joewaleed?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Yousef_Waleed">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=joewaleed&theme=tokyonight" alt="Codeforces Stats" />
+  </a>
+</p>
+
 
 ###
 
