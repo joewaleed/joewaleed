@@ -37,19 +37,20 @@
 
 ## 🧩 Problem Solving  
 
-<p align="center">
-  <a href="https://www.codewars.com/users/joewaleed">
-    <img src="https://www.codewars.com/users/joewaleed/badges/large" alt="Codewars Badge" height="150" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/joewaleed/">
-    <img src="https://leetcard.jacoblin.cool/joewaleed?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" height="150" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/Yousef_Waleed">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=joewaleed&theme=tokyonight" alt="Codeforces Stats" height="150" />
-  </a>
-</p>
+### 🥋 Codewars  
+<a href="https://www.codewars.com/users/joewaleed">
+  <img src="https://www.codewars.com/users/joewaleed/badges/large" alt="Codewars Badge" />
+</a>
+
+### 🧩 LeetCode  
+<a href="https://leetcode.com/joewaleed/">
+  <img src="https://leetcard.jacoblin.cool/joewaleed?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+</a>
+
+### ⚡ Codeforces  
+<a href="https://codeforces.com/profile/Yousef_Waleed">
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/codeforces_card.svg" alt="Codeforces Stats" />
+</a>
 
 
 ###
