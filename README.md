@@ -63,8 +63,8 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joewaleed&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joewaleed&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joewaleed&show_icons=true&theme=tokyonight" height="150" />
 </div>
 
 <div align="center">
