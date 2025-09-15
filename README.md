@@ -35,28 +35,32 @@
 
 ###
 
-## 🧩 Problem Solving  
+## 🧩 Problem Solving
 
-<p align="center">
+<div align="center">
   <h3>🥋 Codewars</h3>
+  <br/>
   <a href="https://www.codewars.com/users/joewaleed">
     <img src="https://www.codewars.com/users/joewaleed/badges/large" alt="Codewars Badge" />
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <h3>🧩 LeetCode</h3>
+  <br/>
   <a href="https://leetcode.com/joewaleed/">
     <img src="https://leetcard.jacoblin.cool/joewaleed?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <h3>⚡ Codeforces</h3>
+  <br/>
   <a href="https://codeforces.com/profile/Yousef_Waleed">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Yousef_Waleed&theme=tokyonight" alt="Codeforces Stats" />
   </a>
-</p>
+</div>
+
 
 
 
