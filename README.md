@@ -37,20 +37,26 @@
 
 ## 🧩 Problem Solving  
 
-### 🥋 Codewars  
-<a href="https://www.codewars.com/users/joewaleed">
-  <img src="https://www.codewars.com/users/joewaleed/badges/large" alt="Codewars Badge" />
-</a>
+<p align="center">
+  <!-- Codewars -->
+  <a href="https://www.codewars.com/users/joewaleed">
+    <img src="https://www.codewars.com/users/joewaleed/badges/large" alt="Codewars Badge" />
+  </a>
+</p>
 
-### 🧩 LeetCode  
-<a href="https://leetcode.com/joewaleed/">
-  <img src="https://leetcard.jacoblin.cool/joewaleed?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
-</a>
+<p align="center">
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/joewaleed/">
+    <img src="https://leetcard.jacoblin.cool/joewaleed?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
 
-### ⚡ Codeforces  
-<a href="https://codeforces.com/profile/Yousef_Waleed">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Yousef_Waleed&theme=tokyonight" alt="Codeforces Stats" />
-</a>
+<p align="center">
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/Yousef_Waleed">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Yousef_Waleed&theme=tokyonight" alt="Codeforces Stats" />
+  </a>
+</p>
 
 
 ###
