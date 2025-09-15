@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60" alt="Photoshop" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows-original.svg" height="60" alt="Windows logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows-original.svg" height="60" alt="Windows" />
 </div>
 
 ---
