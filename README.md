@@ -1,45 +1,50 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 What's Up? I'm Yousef</h1>
 
-###
+<p align="center">
+  Passionate .NET Developer • Problem Solver • Bug Hunter • Gamer 🎮
+</p>
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="60" alt="dot-net logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" alt="unity logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60" alt="photoshop logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" alt="windows8 logo"  />
-</div>
+---
 
-###
+## ⚒️ Tech Stack
 
 <div align="center">
-<a href="https://www.linkedin.com/in/yousef-waleed-6555472a6/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</a>
-<a href="https://discord.com/users/494954574289960960" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="60" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" alt="Unity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60" alt="Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows-original.svg" height="60" alt="Windows" />
 </div>
 
-###
+---
+
+## 🌐 Connect with Me  
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yousef-waleed-6555472a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/494954574289960960">
+    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
+
+---
 
 ## 🧩 Problem Solving
 
 <div align="center">
+  <h3>🥋 Codewars</h3>
+  <a href="https://www.codewars.com/users/joewaleed">
+    <img src="https://www.codewars.com/users/joewaleed/badges/large" alt="Codewars Badge" />
+  </a>
+</div>
+
+<div align="center">
   <h3>🧩 LeetCode</h3>
-  <br/>
   <a href="https://leetcode.com/joewaleed/">
     <img src="https://leetcard.jacoblin.cool/joewaleed?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
   </a>
@@ -47,43 +52,40 @@
 
 <div align="center">
   <h3>⚡ Codeforces</h3>
-  <br/>
   <a href="https://codeforces.com/profile/Yousef_Waleed">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Yousef_Waleed&theme=tokyonight" alt="Codeforces Stats" />
   </a>
 </div>
 
+---
+
+## 📊 GitHub Stats  
+
 <div align="center">
-  <h3>🥋 Codewars</h3>
-  <br/>
-  <a href="https://www.codewars.com/users/joewaleed">
-    <img src="https://www.codewars.com/users/joewaleed/badges/large" alt="Codewars Badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joewaleed&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joewaleed&layout=compact&theme=tokyonight" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joewaleed&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=8" />
+</div>
+
+---
+
+## 🎶 What I’m Listening To  
+
+<div align="center">
+  <a href="https://open.spotify.com/user/flm49unhqejg30ylp7dnnviqu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=flm49unhqejg30ylp7dnnviqu&count=5&unique=true" alt="Spotify recently played" />
   </a>
 </div>
 
-###
+---
 
-<div align="center">
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joewaleed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-<img src="https://github-readme-stats.vercel.app/api?username=joewaleed&show_icons=true&theme=tokyonight" alt="Joe's GitHub stats" height="150" />
-<img src="https://github-profile-trophy.vercel.app?username=joewaleed&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
+## 🕹️ Fun Section  
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joewaleed/joewaleed/output/pacman-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joewaleed/joewaleed/output/pacman-contribution-graph.svg">
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joewaleed/joewaleed/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joewaleed/joewaleed/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joewaleed/joewaleed/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joewaleed/joewaleed/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-<a href="https://open.spotify.com/user/flm49unhqejg30ylp7dnnviqu">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=flm49unhqejg30ylp7dnnviqu&count=5&unique=true" alt="Spotify recently played"  />
-</a>
-</div>
-
-###
