@@ -36,8 +36,20 @@
 ###
 
 <div align="center">
+<a href="https://www.linkedin.com/in/yousef-waleed-6555472a6/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</a>
+<a href="https://discord.com/users/494954574289960960" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</a>
+</div>
+
+###
+
+<div align="center">
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joewaleed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+[![joewaleed's GitHub stats](https://github-readme-stats.vercel.app/api?username=joewaleed)](https://github.com/joewaleed/github-readme-stats)
 <img src="https://github-profile-trophy.vercel.app?username=joewaleed&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
