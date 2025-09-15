@@ -49,7 +49,7 @@
 
 ### ⚡ Codeforces  
 <a href="https://codeforces.com/profile/Yousef_Waleed">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/codeforces_card.svg" alt="Codeforces Stats" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Yousef_Waleed&theme=tokyonight" alt="Codeforces Stats" />
 </a>
 
 
