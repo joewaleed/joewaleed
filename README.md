@@ -38,25 +38,26 @@
 ## 🧩 Problem Solving  
 
 <p align="center">
-  <!-- Codewars -->
+  🥋 <b>Codewars</b><br>
   <a href="https://www.codewars.com/users/joewaleed">
     <img src="https://www.codewars.com/users/joewaleed/badges/large" alt="Codewars Badge" />
   </a>
 </p>
 
 <p align="center">
-  <!-- LeetCode -->
+  🧩 <b>LeetCode</b><br>
   <a href="https://leetcode.com/joewaleed/">
     <img src="https://leetcard.jacoblin.cool/joewaleed?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
 <p align="center">
-  <!-- Codeforces -->
+  ⚡ <b>Codeforces</b><br>
   <a href="https://codeforces.com/profile/Yousef_Waleed">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Yousef_Waleed&theme=tokyonight" alt="Codeforces Stats" />
   </a>
 </p>
+
 
 
 ###
