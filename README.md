@@ -38,14 +38,6 @@
 ## 🧩 Problem Solving
 
 <div align="center">
-  <h3>🥋 Codewars</h3>
-  <br/>
-  <a href="https://www.codewars.com/users/joewaleed">
-    <img src="https://www.codewars.com/users/joewaleed/badges/large" alt="Codewars Badge" />
-  </a>
-</div>
-
-<div align="center">
   <h3>🧩 LeetCode</h3>
   <br/>
   <a href="https://leetcode.com/joewaleed/">
@@ -61,8 +53,13 @@
   </a>
 </div>
 
-
-
+<div align="center">
+  <h3>🥋 Codewars</h3>
+  <br/>
+  <a href="https://www.codewars.com/users/joewaleed">
+    <img src="https://www.codewars.com/users/joewaleed/badges/large" alt="Codewars Badge" />
+  </a>
+</div>
 
 ###
 
