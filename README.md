@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60" alt="Photoshop" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows-original.svg" height="60" alt="Windows" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows-original.svg" height="60" alt="Windows logo" />
 </div>
 
 ---
@@ -37,13 +37,6 @@
 ## 🧩 Problem Solving
 
 <div align="center">
-  <h3>🥋 Codewars</h3>
-  <a href="https://www.codewars.com/users/joewaleed">
-    <img src="https://www.codewars.com/users/joewaleed/badges/large" alt="Codewars Badge" />
-  </a>
-</div>
-
-<div align="center">
   <h3>🧩 LeetCode</h3>
   <a href="https://leetcode.com/joewaleed/">
     <img src="https://leetcard.jacoblin.cool/joewaleed?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
@@ -54,6 +47,13 @@
   <h3>⚡ Codeforces</h3>
   <a href="https://codeforces.com/profile/Yousef_Waleed">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Yousef_Waleed&theme=tokyonight" alt="Codeforces Stats" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>🥋 Codewars</h3>
+  <a href="https://www.codewars.com/users/joewaleed">
+    <img src="https://www.codewars.com/users/joewaleed/badges/large" alt="Codewars Badge" />
   </a>
 </div>
 
