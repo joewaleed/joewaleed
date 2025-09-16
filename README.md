@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's Up? I'm Yousef</h1>
 
 <p align="center">
-  Passionate .NET Developer • Problem Solver • Bug Hunter • Gamer 🎮
+  Passionate .NET Developer • Problem Solver • Bug Hunter
 </p>
 
 ---
