@@ -63,12 +63,12 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joewaleed&layout=compact&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=joewaleed&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joewaleed&layout=compact&theme=tokyonight" height="150" disabled/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joewaleed&show_icons=true&theme=tokyonight" height="150" disabled/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joewaleed&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=joewaleed&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=8" disabled/>
 </div>
 
 ---
