@@ -71,16 +71,6 @@
 
 ---
 
-## 🎶 What I’m Listening To  
-
-<div align="center">
-  <a href="https://open.spotify.com/user/flm49unhqejg30ylp7dnnviqu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=flm49unhqejg30ylp7dnnviqu&count=5&unique=true" alt="Spotify recently played" />
-  </a>
-</div>
-
----
-
 ## 🕹️ Fun Section  
 
 <picture>
