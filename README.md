@@ -42,19 +42,6 @@
   </a>
 </div>
 
-<div align="center">
-  <h3>⚡ Codeforces</h3>
-  <a href="https://codeforces.com/profile/Yousef_Waleed">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Yousef_Waleed&theme=tokyonight" alt="Codeforces Stats" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>🥋 Codewars</h3>
-  <a href="https://www.codewars.com/users/joewaleed">
-    <img src="https://www.codewars.com/users/joewaleed/badges/large" alt="Codewars Badge" />
-  </a>
-</div>
 
 ---
 
