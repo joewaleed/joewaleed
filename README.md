@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's Up? I'm Yousef</h1>
 
 <p align="center">
-  Passionate .NET Developer • SAP ABAP & S/4HANA Developer • Problem Solver
+  Passionate SAP ABAP & S/4HANA Developer • .NET Developer • Problem Solver
 </p>
 
 ---
