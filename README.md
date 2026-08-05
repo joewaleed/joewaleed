@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's Up? I'm Yousef</h1>
 
 <p align="center">
-  Passionate .NET Developer • Problem Solver • Bug Hunter
+  Passionate .NET Developer • SAP ABAP & S/4HANA Developer • Problem Solver
 </p>
 
 ---
@@ -9,6 +9,7 @@
 ## ⚒️ Tech Stack
 
 <div align="center">
+  ![SAP](https://shields.io)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="60" alt=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" alt="Unity" />
