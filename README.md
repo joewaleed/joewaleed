@@ -9,7 +9,7 @@
 ## ⚒️ Tech Stack
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/2531208?s=200&v=4" height="80" alt="SAP" />
+  <img src="https://avatars.githubusercontent.com/u/2531208?s=200&v=4" height="70" alt="SAP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="60" alt=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" alt="Unity" />
